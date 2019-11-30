@@ -2,6 +2,7 @@ baseURL = "http://xixinjie.com/"
 languageCode = "en-us"
 title = "Xinjie"
 theme = "ananke"
+publishDir = "."
 
 [sitemap]
   changefreq = "monthly"
