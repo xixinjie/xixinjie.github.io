@@ -3,17 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://xixinjie.github.io/posts/docker-common-commands/</loc>
+    <lastmod>2018-08-24T00:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://xixinjie.github.io/posts/</loc>
+    <lastmod>2018-08-24T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xixinjie.github.io/</loc>
+    <lastmod>2018-08-24T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://xixinjie.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://xixinjie.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xixinjie.github.io/</loc>
     <priority>0</priority>
   </url>
   
